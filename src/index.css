@@ -5,9 +5,68 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: darkgrey !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 0;
+  border-radius: 0.5rem
+
+}
+
+.acciones{
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+i {
+  cursor: pointer;
+  font-size: 1.8rem;
+}
+
+.eliminar {
+  color: red;
+  font-size: 1.8rem;
+}
+
+.table, .table-dark{
+  margin: 0 !important;
+}
+
+.id{
+  width: 20%;
+}
+.nombre{
+  width: 30%;
+}
+
+.correo{
+  width: 30%;
+}
+
+.accionesheader{
+  width: 100%;
+
+}
+
+thead{
+  width: 100% !important;
+}
+
+
+
