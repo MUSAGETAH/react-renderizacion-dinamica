@@ -1,0 +1,62 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../04-llamado a api react/desafio/desafio-prueba-video"
+		},
+		{
+			"path": "../../../../modulo 5 react/01-router/react router 1/desafio-rutas-react"
+		},
+		{
+			"path": "../../../../modulo 5 react/01-router/Material apoyo clase 1 - React Router/02_g_Material apoyo clase 1 - React Router/Apoyo Clase - React Router I (Dogstel)"
+		},
+		{
+			"path": "../../../../modulo 5 react/02-context/clase-context"
+		},
+		{
+			"path": "../../../../modulo 5 react/02-context/desafio-context/Apoyo Desafío - Natural Pic"
+		},
+		{
+			"path": "../../../../modulo 5 react/02-context/react_context_router"
+		},
+		{
+			"path": "../../../../modulo 5 react/03-rutas2/ejercicio clase/router-dos"
+		},
+		{
+			"path": "../../../../modulo 5 react/03-rutas2/desafio-router-dos"
+		},
+		{
+			"path": "../../../../modulo 5 react/04-prueba/desafio-prueba"
+		},
+		{
+			"path": "../../../../modulo 7 node/desafios"
+		},
+		{
+			"path": "../../../../../git/curso react/citas-react"
+		},
+		{
+			"path": "../../../../../git/curso react/control-gastos"
+		},
+		{
+			"path": "../../../../../git/curso react/context"
+		},
+		{
+			"path": "../../../../../git/curso react/contex-api-clima"
+		},
+		{
+			"path": "../../../../../git/curso react/context_api"
+		},
+		{
+			"path": "../../../../../git/desafio3_node"
+		},
+		{
+			"path": "../../../../../git/desafio_2"
+		},
+		{
+			"path": "../../../../../apps/backend/proyecto-titulo-backend-node"
+		}
+	],
+	"settings": {}
+}
